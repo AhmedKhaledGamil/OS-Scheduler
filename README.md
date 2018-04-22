@@ -1,10 +1,10 @@
 # OS-Scheduler
 
-- [Inputs](inputs)
-- [Outputs](outputs)
-- [Description](description)
-- [Types of Schedulers supported](types-of-schedulers-supported)  
-- [Screen Shots](screen-shots)  
+- [Inputs](#nputs)
+- [Outputs](#utputs)
+- [Description](#desription)
+- [Types of Schedulers supported](#types-of-schedulers-supported)  
+- [Screen Shots](#screen-shots)  
 
 
 ## Inputs  
