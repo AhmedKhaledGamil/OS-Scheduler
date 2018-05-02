@@ -1,7 +1,7 @@
 # OS-Scheduler
 
-- [Inputs](#nputs)
-- [Outputs](#utputs)
+- [Inputs](#inputs)
+- [Outputs](#outputs)
 - [Description](#desription)
 - [Types of Schedulers supported](#types-of-schedulers-supported)  
 - [Screen Shots](#screen-shots)  
